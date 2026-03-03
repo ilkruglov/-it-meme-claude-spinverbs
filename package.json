@@ -1,0 +1,32 @@
+{
+  "name": "it-meme-claude-spinverbs",
+  "version": "1.0.0",
+  "description": "Russian IT memes for Claude Code spinner — 63 phrases from IT folklore, olbanski, gamer culture",
+  "bin": {
+    "it-meme-claude-spinverbs": "bin/cli.js"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "claude",
+    "claude-code",
+    "spinner",
+    "meme",
+    "russian",
+    "it-humor",
+    "olbanski"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
