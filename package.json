@@ -20,11 +20,11 @@
     "it-humor",
     "olbanski"
   ],
-  "author": "",
+  "author": "ilkruglov",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/ilkruglov/-it-meme-claude-spinverbs"
   },
   "engines": {
     "node": ">=14"
