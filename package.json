@@ -1,7 +1,7 @@
 {
   "name": "it-meme-claude-spinverbs",
-  "version": "1.0.0",
-  "description": "Russian IT memes for Claude Code spinner — 63 phrases from IT folklore, olbanski, gamer culture",
+  "version": "1.1.0",
+  "description": "Russian IT memes for Claude Code spinner — 54 phrases from IT folklore, olbanski, gamer culture",
   "bin": {
     "it-meme-claude-spinverbs": "bin/cli.js"
   },
